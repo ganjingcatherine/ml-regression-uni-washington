@@ -1,5 +1,4 @@
-# Coursera: Machine Learning: Regression
-## University of Washington
+# Coursera: Machine Learning: Regression (University of Washington)
 
 https://www.coursera.org/learn/ml-regression
 
