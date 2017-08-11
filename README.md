@@ -11,3 +11,5 @@ Jupyter Notebook Assignments:
 - [Regression Week 3: Polynomial Regression Quiz](https://github.com/desicochrane/ml-regression-uni-washington/blob/master/Week_3/Week%203%20Assignment.ipynb)
 - [Regression Week 4: Ridge Regression Assignment 1](https://github.com/desicochrane/ml-regression-uni-washington/blob/master/Week_4/Week%204%20Assignment.ipynb)
 - [Regression Week 4: Ridge Regression Assignment 2](https://github.com/desicochrane/ml-regression-uni-washington/blob/master/Week_4/Regression%20Week%204%20Ridge%20Regression%20Assignment%202.ipynb)
+- [Regression Week 5: LASSO Assignment 1](https://github.com/desicochrane/ml-regression-uni-washington/blob/master/Week_5/Regression%20Week%205%20LASSO%20Assignment%201.ipynb)
+- [Regression Week 5: LASSO Assignment 2](https://github.com/desicochrane/ml-regression-uni-washington/blob/master/Week_5/Regression%20Week%205%20LASSO%20Assignment%202.ipynb)
